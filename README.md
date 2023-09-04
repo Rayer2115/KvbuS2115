@@ -1,7 +1,13 @@
 ```lua
 Info = {}
 Info.Socials = {
-  ["discord"] = ".strikx"
+  ["discord"] = ".strikx",
+  -- No more
 }
-Info.Projects = {}
+Info.Projects = {
+  ["nservices"] = {
+    ["description"] = "Best quality scripts",
+    ["link"] = "store.nservices.pl/dc.nservices.pl"
+  }
+}
 ```
