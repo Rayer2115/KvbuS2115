@@ -6,9 +6,6 @@ Info.Socials = {
   -- No more
 }
 Info.Projects = {
-  ["nservices"] = {
-    ["description"] = "Best quality scripts",
-    ["link"] = "store.nservices.pl/dc.nservices.pl"
-  }
+  [":nerd:"] = nil
 }
 ```
