@@ -1,11 +1,33 @@
-```lua
--- stripsior's info
-Info = {}
-Info.Socials = {
-  ["discord"] = ".strikx",
-  -- No more
+```typescript
+
+class strikx {
+  name : string
+  dateOfBirth : string
+  email : string
+
+  constructor() {
+    this.name = "Jakub Krzyżanowski"
+    this.dateOfBirth = "2008-01-10"
+    this.email = "kontakt@strikx.xyz"
+  }
+
+  education() {
+    return {
+      '2022-now': 'Zespół Szkół Agrotechnicznych Nr. 5 w Słupsku (IT)'
+    }
+  }
+
+  experience() {
+    return {
+      '2020-2023': 'Some discord bots (small projects)',
+      '2021-2023': 'Small websites and web apps',
+      '2023-now': 'Started using flutter'
+    }
+  }
+
+  skills() {
+    return [ 'HTML/CSS', 'JAVASCRIPT', 'TYPESCRIPT', 'NODE.JS', 'TAILWIND/BOOTSTRAP', 'NPM/YARN', 'GIT', 'MySQL/MONGODB', 'DOCKER', 'LINUX SERVERS', 'WINDOWS SERVERS' ]
+  }
 }
-Info.Projects = {
-  [":nerd:"] = nil
-}
-```
+
+``````
