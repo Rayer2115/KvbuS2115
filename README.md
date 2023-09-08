@@ -26,8 +26,8 @@ class strikx {
   }
 
   skills() {
-    return [ 'HTML/CSS', 'JAVASCRIPT', 'TYPESCRIPT', 'NODE.JS', 
-    'TAILWIND/BOOTSTRAP', 'NPM/YARN', 'GIT', 'MySQL/MONGODB', 'DOCKER', 
+    return [ 'HTML', 'JAVASCRIPT', 'TYPESCRIPT', 'NODE.JS',
+    'NPM/YARN', 'GIT', 'MySQL/MONGODB', 'DOCKER', 
     'LINUX SERVERS', 'WINDOWS SERVERS' ]
   }
 }
