@@ -8,7 +8,7 @@ class strikx {
   constructor() {
     this.name = "Jakub Krzyżanowski"
     this.dateOfBirth = "2008-01-10"
-    this.email = "kontakt@strikx.xyz"
+    this.email = "strikx@nexifylabs.tech"
   }
 
   education() {
@@ -29,6 +29,10 @@ class strikx {
     return [ 'HTML', 'JAVASCRIPT', 'TYPESCRIPT', 'NODE.JS',
     'NPM/YARN', 'GIT', 'MySQL/MONGODB', 'DOCKER', 
     'LINUX SERVERS', 'WINDOWS SERVERS' ]
+  }
+
+  projects() {
+  return [ 'nexifylabs.tech (discord.gg/nexifylabs)' ]
   }
 }
 
