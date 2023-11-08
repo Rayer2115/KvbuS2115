@@ -32,7 +32,7 @@ class strikx {
   }
 
   projects() {
-  return [ 'nexifylabs.tech (discord.gg/nexifylabs)' ]
+  return []
   }
 }
 
