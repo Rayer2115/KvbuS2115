@@ -8,7 +8,7 @@ class strikx {
   constructor() {
     this.name = "Jakub Krzyżanowski"
     this.dateOfBirth = "2008-01-10"
-    this.email = "strikx@nexifylabs.tech"
+    this.email = "jakub@fivestack.pl"
   }
 
   education() {
