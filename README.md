@@ -13,7 +13,7 @@ class strikx {
 
   education() {
     return {
-      '2022-now': 'Zespół Szkół Agrotechnicznych Nr. 5 w Słupsku (IT)'
+      '2022-now': 'Zespół Szkół Agrotechnicznych Nr. 6 w Słupsku (IT)'
     }
   }
 
