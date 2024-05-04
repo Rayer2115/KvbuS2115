@@ -21,7 +21,7 @@ class strikx {
     return {
       '2020-2023': 'Some discord bots (small projects)',
       '2021-2023': 'Small websites and web apps',
-      '2023-now': 'Trying to get skills in frontend (bad ending)'
+      '2023-now': 'Focused on side projects'
     }
   }
 
