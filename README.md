@@ -1,39 +1,35 @@
-```typescript
+### Hi there! I'm stripsior 👋
 
-class strikx {
-  name : string
-  dateOfBirth : string
-  email : string
+I'm a **Full Stack Developer** passionate about building efficient, modern, and responsive web applications. I love working with:
 
-  constructor() {
-    this.name = "Jakub Krzyżanowski"
-    this.dateOfBirth = "2008-01-10"
-    this.email = "jakub@fivestack.pl"
-  }
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
-  education() {
-    return {
-      '2022-now': 'Zespół Szkół Agrotechnicznych Nr. 6 w Słupsku (IT)'
-    }
-  }
+---
 
-  experience() {
-    return {
-      '2020-2023': 'Some discord bots (small projects)',
-      '2021-2023': 'Small websites and web apps',
-      '2023-now': 'Focused on side projects'
-    }
-  }
+### My GitHub Stats 📊
 
-  skills() {
-    return [ 'HTML', 'JAVASCRIPT', 'TYPESCRIPT', 'NODE.JS',
-    'NPM/YARN', 'GIT', 'MySQL/MONGODB', 'DOCKER', 
-    'LINUX SERVERS', 'WINDOWS SERVERS' ]
-  }
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stripsior&show_icons=true&theme=radical)
 
-  projects() {
-  return []
-  }
-}
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stripsior&layout=compact&theme=radical)
 
-``````
+---
+
+### Latest Projects 🌟
+
+- 🚀 **[Fractify Studios](https://github.com/stripsior/project1)** - A studio that develops innovative and advanced scripts for FiveM servers..
+
+---
+
+### Connect with Me 👤
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/YOUR_TWITTER)
+
+---
+
+**Let's build something awesome together!** 🌟
