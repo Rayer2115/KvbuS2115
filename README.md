@@ -1,6 +1,6 @@
 ### Hi there! I'm stripsior 👋
 
-I'm a **Full Stack Developer** passionate about building efficient, modern, and responsive web applications. I love working with:
+I'm a **Backend Developer** passionate about building efficient, modern, and responsive web applications. I love working with:
 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
