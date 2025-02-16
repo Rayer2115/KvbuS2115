@@ -51,3 +51,5 @@
 <img src="https://raw.githubusercontent.com/stripsior/stripsior/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
